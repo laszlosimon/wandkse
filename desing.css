@@ -41,7 +41,7 @@ html, body {
 }
 .half + .half {
   background: url("uszaslogo.jpg") center center no-repeat;
-  background-size: 0 0 cover;
+  background-size: cover;
     color:white;
     opacity:0.5;
 
